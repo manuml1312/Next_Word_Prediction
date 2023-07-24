@@ -1,1 +1,2 @@
 # Next_Word_Prediction
+This repository contains the inference codes for various text generation models trained on parameters not exceeding 2B tokens. The code shows a text input and the cumulative generations of the model with the freedom to control the models creativity and the probability of the token selection.There is also word file that has the basic information to understand how the generative models work, steps taken during their evaluation and some examples of such models. 
